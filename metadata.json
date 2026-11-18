@@ -1,0 +1,8 @@
+{
+  "name": "TURBINE O SEU CURRÍCULO COM A BIBLIOTECA SENAI-SP 9.14!",
+  "description": "Criador de currículo gamificado com preview em tempo real e exportação para PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
